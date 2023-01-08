@@ -179,3 +179,7 @@ li.work-experience__item {
 .materials {
     font-style: italic;
 }
+
+.main-link {
+    color: black;
+}
